@@ -1,6 +1,6 @@
 ### 你好，我是树脂蛋白2333
 
-![](https://badgen.net/badge/icon/telegram?icon=telegram&label)()
+[![](https://badgen.net/badge/icon/telegram?icon=telegram&label)]()
 
 一名高中生，一个半吊子软件开发者，网络安全技术爱好者
 
