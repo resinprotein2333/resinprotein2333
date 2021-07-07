@@ -1,16 +1,13 @@
-### Hi there 👋
+### 你好，我是树脂蛋白2333
 
-<!--
-**resinprotein2333/resinprotein2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名高中生，一个半吊子软件开发者，网络安全技术爱好者
 
-Here are some ideas to get you started:
+C & C++ & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram：
+
+E-mail：
+
+Blog：
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
