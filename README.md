@@ -10,4 +10,4 @@ E-mail：
 
 Blog：
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=resinprotein2333&show_icons=true&theme=dark)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=resinprotein2333&show_icons=true&theme=blue-green)
