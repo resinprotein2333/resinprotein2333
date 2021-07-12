@@ -5,7 +5,7 @@
 C & C++ & Python
 
 
-[![](https://img.shields.io/static/v1?label=Blog&logo=Hexo&message=RP233's_blog&color=yellow)](https)
+[![](https://img.shields.io/static/v1?label=Blog&logo=Hexo&message=RP233's_blog&color=success)](https://resinprotein2333.github.io/)
 
 如果有疑问或是好的建议，你可以通过以下方式联系我：
 
