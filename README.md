@@ -4,6 +4,9 @@
 
 C & C++ & Python
 
+
+[![](https://img.shields.io/static/v1?label=Blog&logo=Hexo&message=RP233's_blog&color=yellow)](https)
+
 如果有疑问或是好的建议，你可以通过以下方式联系我：
 
 [![](https://img.shields.io/static/v1?label=Telegram&logo=Telegram&message=@resinprotein2333&color=blue)](https://t.me/Resinprotein233) ![](https://img.shields.io/static/v1?label=ProtonMail&logo=ProtonMail&message=resinprotein2333@protonmail.com&color=blueviolet)
