@@ -12,26 +12,26 @@
 
 ### 我能灵活使用这些编程语言
 
-![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### 如果对项目有好的建议和疑问可以联系我
 
-[![Static Badge](https://img.shields.io/badge/resinprotein2333%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resinprotein2333@gmail.com)
-[![Static Badge](https://img.shields.io/badge/%40resinprotein233-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Resinprotein233)
+[![Mail](https://img.shields.io/badge/resinprotein2333%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resinprotein2333@gmail.com)
+[![Telegram](https://img.shields.io/badge/%40resinprotein233-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Resinprotein233)
 
 #### 我的个人博客站
 
-[![Static Badge](https://img.shields.io/badge/Resinprotein2333's%20Blog-%230E83CD?style=for-the-badge&logo=HEXO&logoColor=white)](https://resinprotein2333.github.io)
+[![Blog](https://img.shields.io/badge/Resinprotein2333's%20Blog-%230E83CD?style=for-the-badge&logo=HEXO&logoColor=white)](https://resinprotein2333.github.io)
 
 <h3 align="center">
     你是第 
