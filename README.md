@@ -51,5 +51,3 @@
 ### 最近一月的仓库提交状况:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=merko)
-
-### 3D 视图:
