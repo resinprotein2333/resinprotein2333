@@ -1,3 +1,4 @@
+
 name: generate snake
 
 on:
@@ -24,7 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: resinprotein2333
-          outputs: snake/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -32,6 +33,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
-          build_dir: snake
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
