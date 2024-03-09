@@ -2,7 +2,7 @@ name: 3D Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 18 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
