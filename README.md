@@ -41,14 +41,14 @@
 
 ### 我在GitHub上的活跃状况和编程语言使用情况:
 
+![Snake](https://raw.githubusercontent.com/resinprotein2333/resinprotein2333/output/github-contribution-grid-snake-dark.svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=resinprotein2333&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=resinprotein2333&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-![Snake](https://raw.githubusercontent.com/resinprotein2333/resinprotein2333/output/github-contribution-grid-snake-dark.svg)
 
 ### 最近一月的仓库提交状况:
 
