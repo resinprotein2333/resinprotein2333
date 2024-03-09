@@ -39,7 +39,7 @@
    个访问我的 Github 简介的访客😄
 </h3>
 
-### 我在GitHub上的活跃状况和编程语言使用情况
+### 我在GitHub上的活跃状况和编程语言使用情况:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=resinprotein2333&theme=merko" />
@@ -48,3 +48,8 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=resinprotein2333&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+### 最近一月的仓库提交状况:
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=github-compact)
+
+### 3D 视图:
