@@ -48,6 +48,8 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=resinprotein2333&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+![Snake](https://raw.githubusercontent.com/resinprotein2333/resinprotein2333/output/github-contribution-grid-snake-dark.svg)
+
 ### 最近一月的仓库提交状况:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=merko)
