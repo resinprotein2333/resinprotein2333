@@ -1,4 +1,4 @@
-name: generate-snake
+name: Generate Snake
 
 on:
   # 每 12 小时自动运行一次
@@ -12,9 +12,6 @@ on:
   push:
     branches:
     - master
-
-
-
 jobs:
   generate:
     runs-on: ubuntu-latest
