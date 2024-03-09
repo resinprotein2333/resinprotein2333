@@ -1,37 +1,25 @@
-name: generate animation
+name: 3D Contrib
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    name: generate-github-profile-3d-contrib
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: resinprotein2333
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://usercontent.githubfast.com/raw/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
