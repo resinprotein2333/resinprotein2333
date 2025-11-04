@@ -27,7 +27,6 @@
 ### 如果对项目有好的建议和疑问可以联系我
 
 [![Mail](https://img.shields.io/badge/resinprotein2333%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resinprotein2333@gmail.com)
-[![Telegram](https://img.shields.io/badge/%40resinprotein233-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Resinprotein233)
 
 #### 我的个人博客站
 
