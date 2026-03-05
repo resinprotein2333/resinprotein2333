@@ -10,7 +10,7 @@
 * 🔍开源爱好者
 * 🔐网络安全技术爱好者
 
-### 我能灵活使用这些编程语言
+### 我主要使用这几种语音进行开发
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -24,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### 如果对项目有好的建议和疑问可以联系我
+### 我的邮箱地址
 
 [![Mail](https://img.shields.io/badge/resinprotein2333%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resinprotein2333@gmail.com)
 
