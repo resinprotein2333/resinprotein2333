@@ -1,5 +1,7 @@
 <h3 align="center">
-  <p> 你好，我是树脂蛋白2333👋 </p>
+  <p> 你好,我是树脂蛋白2333👋 </p>
+  <p> DE BD6KIZ </p>
+  <p> -.. . -... -.. -.... -.- .. --.. </p>
 </h3>
 
 ### 关于我自己
@@ -9,20 +11,29 @@
 * 💻一个半吊子软件开发者
 * 🔍开源爱好者
 * 🔐网络安全技术爱好者
+* 📻业余无线电爱好者
 
 ### 我可以使用这几种编程语言进行开发
 
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java_Script-f1e05a?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Type_Script-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-41b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)
+
+### 我会使用这些技术
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ESXI](https://img.shields.io/badge/Vmware_ESXI-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![CISCO](https://img.shields.io/badge/CISCO_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 我的邮箱地址
 
@@ -32,10 +43,10 @@
 
 [![Blog](https://img.shields.io/badge/Resinprotein2333's%20Blog-%230E83CD?style=for-the-badge&logo=HEXO&logoColor=white)](https://resinprotein2333.github.io)
 
-### 最近一月的仓库提交状况:
+### 近一月的代码仓库提交状况:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=merko)
 
-### 3D 视图:
+### 近一月的代码仓库提交 3D 视图:
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![3D Graph](./profile-3d-contrib/profile-night-green.svg)
