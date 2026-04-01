@@ -10,7 +10,7 @@
 * 🔍开源爱好者
 * 🔐网络安全技术爱好者
 
-### 我主要使用这几种语音进行开发
+### 我可以使用这几种编程语言进行开发
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
