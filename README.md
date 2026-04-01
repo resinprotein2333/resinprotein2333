@@ -47,6 +47,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=merko)
 
-### 近一月的代码仓库提交 3D 视图:
+### 近一月的代码仓库提交3D视图:
 
 ![3D Graph](./profile-3d-contrib/profile-night-green.svg)
