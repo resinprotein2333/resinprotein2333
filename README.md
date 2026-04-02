@@ -16,7 +16,7 @@
 ### 我可以使用这几种编程语言进行开发
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
