@@ -46,7 +46,7 @@
 
 ### 近一月的代码仓库提交状况:
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=merko)
+![Resinprotein2333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=resinprotein2333&theme=react-dark&custom_title=Resinprotein2333's%20github%20activity%20graph&hide_border=true)
 
 ### 近一月的代码仓库提交3D视图:
 
