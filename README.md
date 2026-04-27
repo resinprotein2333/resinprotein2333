@@ -12,6 +12,7 @@
 * 🔍开源爱好者
 * 🔐网络安全技术爱好者
 * 📻业余无线电爱好者
+* 🖥️HOME LAB玩家
 
 ### 我可以使用这几种编程语言进行开发
 
@@ -28,12 +29,25 @@
 
 ### 我会使用这些技术
 
+#### 操作系统
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ESXI](https://img.shields.io/badge/Vmware_ESXI-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![CISCO](https://img.shields.io/badge/CISCO_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### 开发框架
+
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+#### 数据库
+
+![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 嵌入式
+
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 我的邮箱地址
